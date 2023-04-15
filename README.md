@@ -1,4 +1,4 @@
-# Basic C Game using SDL2
+# Simple C Game using SDL2
 
 ## Demo
 
